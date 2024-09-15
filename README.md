@@ -19,3 +19,6 @@ This project implements various operations on a linked list in C using modular p
    ```bash
    git clone https://github.com/kiran879/Linked-List-Operations-Using-Array-of-Function-Pointers.git
    cd Linked-List-Operations-Using-Array-of-Function-Pointers
+
+Make testScript Executable: Before running the testScript, make sure it has executable permissions
+run ./testScript
